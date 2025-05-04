@@ -2,8 +2,7 @@
 # 📊 HR Analytics Dashboard with Power BI
 
 Dashboard Screenshot
-([HR dashboard ss](https://github.com/user-attachments/assets/cadffc0e-6088-42c0-8a29-8f067a7c3d74)
-)
+([HR dashboard ss](https://github.com/user-attachments/assets/3ac9b644-05d3-46b6-a744-f9af2e336882))
 
 ## 📁 Project Overview
 
