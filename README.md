@@ -25,8 +25,7 @@ This project provides a comprehensive **HR Analytics Dashboard** built using **M
 
 ## 📂 Dataset
 
-The dataset used for this dashboard is available in this repository:
-- `539f49ec-bbbc-435a-aa63-2d1379beabea.csv` – Contains employee demographic and job-related information such as:
+The dataset used for this dashboard contains employee demographic and job-related information such as:
   - Age
   - Gender
   - Job Level
@@ -62,13 +61,7 @@ The dataset used for this dashboard is available in this repository:
 2. Open the `.pbix` file in Power BI Desktop.
 3. Explore and customize the visuals as per your organization's needs.
 4. Replace the dataset if needed to analyze your own employee data.
-
----
-
-## 📸 Dashboard Preview
-
-Refer to the image above or the `/images` folder to view a snapshot of the live dashboard.
-
+   
 ---
 
 ## 🧠 Use Case
